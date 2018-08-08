@@ -34,3 +34,22 @@ Se realizó este estudio para observar los problemas actuales de la plataforma. 
 Se asignó 3 tareas y se encontró lo siguiente:
 
 ![Situacion actual Inkafarma](assets/img/treejack.png)
+
+- Media de tiempo en encontrar productos: 2 minutos y 40 segundos.
+- Los productos actualemente están fuera de las secciones donde los usuarios creen encontrarlos.
+- Se necesitan menos secciones y mejores títulos para algunas de ellas.
+- Evitar la repetición de productos en distintas secciones.
+- Evitar el cmabio de nombre de productos.
+
+
+## Card Sorting
+
+Habiendo visto cuáles eran los puntos de mejora, planteamos un estudio de Card Sorting. En el cual, brindamos ciertas categorías y un listado de tarjetas con diferentes productos de la farmacia.
+
+### Este es el estudio:
+
+#### Categorías
+![Situacion actual Inkafarma](assets/img/cateegorias.png)
+
+#### Tarjetas
+![Situacion actual Inkafarma](assets/img/cards.png)
