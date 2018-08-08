@@ -53,3 +53,8 @@ Habiendo visto cuáles eran los puntos de mejora, planteamos un estudio de Card 
 
 #### Tarjetas
 ![Situacion actual Inkafarma](assets/img/cards.png)
+
+
+### Resultados 
+
+![Situacion actual Inkafarma](assets/img/optimalworkshop.png)
