@@ -57,4 +57,15 @@ Habiendo visto cuáles eran los puntos de mejora, planteamos un estudio de Card 
 
 ### Resultados 
 
+![Situacion actual Inkafarma](assets/img/participantes.png)
 ![Situacion actual Inkafarma](assets/img/optimalworkshop.png)
+
+
+## Resultados finales de card sorting
+
+![Situacion actual Inkafarma](assets/img/cardsorting.png)
+
+## Herramientas usadas:
+
+- Figma
+- Optimal Workshop
