@@ -8,7 +8,7 @@
 
 ## Situación actual de Inkafarma
 
-![Sitiuacion actual Inkafarma](assets/img/inka.png)
+![Situacion actual Inkafarma](assets/img/inka.png)
 
 ## Observaciones encontradas
 
@@ -24,3 +24,13 @@
 - Para encontrar cuál es el esquema mental de las personas al comprar un producto, utilizaremos **Card Sorting**, también en Optimal Workshop.
 
 - Luego de haber obtenido la data necesaria, se realizará un esquema de los resultados. 
+
+## Treejack
+
+Se realizó este estudio para observar los problemas actuales de la plataforma. A los usuarios se les asignó 3 tareas, en las que tuviesen que interactuar con un menú y encontrar ciertos productos. 
+
+![Situacion actual Inkafarma](assets/img/menuinka.png)
+
+Se asignó 3 tareas y se encontró lo siguiente:
+
+![Situacion actual Inkafarma](assets/img/treejack.png)
